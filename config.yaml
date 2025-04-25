@@ -37,3 +37,5 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "3DGS"：
+        filters: ["3D Gaussian Splatting"]
