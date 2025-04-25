@@ -36,4 +36,4 @@ keywords:
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
-        filters: ["NeRF", "3DGS", "3D Gaussian Splatting"]
+        filters: ["NeRF"]
